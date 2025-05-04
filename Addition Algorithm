@@ -1,0 +1,5 @@
+1.Take a variable "a"
+2.Take a variable "b"
+3.Take two numbers and store it in the variables "a" and "b"
+4.Take another variable "c" which will store the sum of "a" and "b"
+5.Print the variables "c"
