@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="Page-1" id="0qdHdh4P16Bx4E-8EY2k">
-    <mxGraphModel dx="786" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="827" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -12,6 +12,45 @@
             <mxPoint x="380" y="110" as="sourcePoint" />
             <mxPoint x="380" y="170" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="McrzQX9dSWZP8yZB0FMa-3" value="number = 11" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="McrzQX9dSWZP8yZB0FMa-4" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="McrzQX9dSWZP8yZB0FMa-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="230" as="sourcePoint" />
+            <mxPoint x="390" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="McrzQX9dSWZP8yZB0FMa-5" value="if divisible by two ,then even or else odd" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="290" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="McrzQX9dSWZP8yZB0FMa-11" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="McrzQX9dSWZP8yZB0FMa-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="490" as="sourcePoint" />
+            <mxPoint x="390" y="512.1052631578947" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="McrzQX9dSWZP8yZB0FMa-12" value="11 = odd or even" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="510" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="McrzQX9dSWZP8yZB0FMa-13" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="McrzQX9dSWZP8yZB0FMa-12" target="McrzQX9dSWZP8yZB0FMa-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="375" y="630" as="sourcePoint" />
+            <mxPoint x="390" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="McrzQX9dSWZP8yZB0FMa-14" value="ODD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="620" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="McrzQX9dSWZP8yZB0FMa-15" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="McrzQX9dSWZP8yZB0FMa-14" target="McrzQX9dSWZP8yZB0FMa-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="730" as="sourcePoint" />
+            <mxPoint x="390" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="McrzQX9dSWZP8yZB0FMa-16" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="740" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
